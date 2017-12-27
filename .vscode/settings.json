@@ -1,3 +1,9 @@
 {
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "workbench.activityBar.visible": true,
+  "workbench.statusBar.visible": true,
+  "window.menuBarVisibility": "default",
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 120,
+  "editor.minimap.enabled": false
 }
