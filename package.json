@@ -1,7 +1,6 @@
 {
-  "name": "node-chat-app",
+  "name": "chat-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server/server.js",
@@ -22,5 +21,14 @@
     "expect": "^1.20.2",
     "mocha": "^3.0.2",
     "nodemon": "^1.10.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elliohknow/nodeChatApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Elliohknow/nodeChatApp/issues"
+  },
+  "homepage": "https://github.com/Elliohknow/nodeChatApp#readme",
+  "description": ""
 }
